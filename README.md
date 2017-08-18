@@ -1,2 +1,2 @@
 # Basic-Portfolio
-Basic Portfolio Started Homework Thursday 08-17-2017
+Basic Portfolio Due Week-2 (Monday) 08-21-2017
